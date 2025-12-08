@@ -1,1 +1,1 @@
-# redirect-xamarth-pp-ua
+<!-- xamarth -->
